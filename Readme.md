@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomizationFindHelper.cs](./CS/WindowsApplication133/CustomizationFindHelper.cs) (VB: [CustomizationFindHelper.vb](./VB/WindowsApplication133/CustomizationFindHelper.vb))
+* [Form2.cs](./CS/WindowsApplication133/Form2.cs) (VB: [Form2.vb](./VB/WindowsApplication133/Form2.vb))
+* [Program.cs](./CS/WindowsApplication133/Program.cs) (VB: [Program.vb](./VB/WindowsApplication133/Program.vb))
+<!-- default file list end -->
 # How to add a filter TextBox to the XtraPivotGrid Column Chooser
 
 
